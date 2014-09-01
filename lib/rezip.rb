@@ -1,5 +1,3 @@
-require "rezip/version"
+require 'rezip/version'
+require 'rezip/cli'
 
-module Rezip
-  # Your code goes here...
-end
